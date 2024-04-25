@@ -1,0 +1,46 @@
+.form {
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    box-shadow: rgb(0, 0, 0, 0.25);
+    padding: 1rem;
+    margin: 8rem auto;
+    width: 90%;
+    max-width: 30rem;
+
+}
+
+.form button {
+    background: green;
+    color: whitesmoke;
+    padding: .4rem 1rem;
+    border-radius: 25px;
+
+}
+
+.form label {
+    margin-bottom: 1rem;
+
+}
+
+.form select {
+    display: block;
+    margin-right: 1rem;
+    padding: .3rem 1rem;
+    width: 100%;
+    margin-bottom: .5rem;
+    border: 1.5px solid rgb(20, 23, 228);
+}
+
+input {
+    display: block;
+    margin-right: 1rem;
+    padding: .3rem 1rem;
+    width: 93%;
+    border: 1.5px solid rgb(37, 13, 211);
+
+}
+
+form button {
+    margin-top: .4rem;
+
+}

@@ -1,0 +1,6 @@
+.amount {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
